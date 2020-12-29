@@ -49,7 +49,7 @@ var (
 	ocTraceImport      = "go.opencensus.io/trace"
 	gatewayImport      = "github.com/spiderauto/atlas-app-toolkit/gateway"
 	pqImport           = "github.com/lib/pq"
-	gerrorsImport      = "github.com/spiderauto/protoc-gen-gorm/errors"
+	gerrorsImport      = "github.com/infobloxopen/protoc-gen-gorm/errors"
 	stdFmtImport       = "fmt"
 	stdCtxImport       = "context"
 	stdStringsImport   = "strings"
